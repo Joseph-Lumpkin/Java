@@ -1,0 +1,13 @@
+//To comment out a line, start the line with two slashes like in this line.
+//This will be the configuration file.
+//Please set these to what is needed.
+//Do not leave blank lines! Always start a new line break with "//"
+//
+//Please enter the database address on one line below:
+jdbc:mysql://localhost:3306/LibraryDB?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+//
+//Please enter the database username on one line below:
+root
+//
+//Please enter the database username's password on one line below:
+sesame
