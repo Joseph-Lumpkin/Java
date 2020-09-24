@@ -11,7 +11,7 @@ public class App {
 		
 		GpioController gpio = GpioFactory.getInstance();
 		
-		GpioPinDigitalOutput pinOut = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_17);
+		GpioPinDigitalOutput pinOut = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_02);
 		
 		pinOut.high();
 		try {
